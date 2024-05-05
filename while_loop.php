@@ -1,5 +1,7 @@
 <?php
 
+echo "While loop";
+
 $i = 1;
 
 while($i<20){
